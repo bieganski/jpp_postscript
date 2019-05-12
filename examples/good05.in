@@ -1,0 +1,13 @@
+0 0 moveto
+50 0 lineto
+50 50 lineto
+closepath
+0 50 lineto
+-50 50 lineto
+closepath
+-50 0 lineto
+-50 -50 lineto
+closepath
+0 -50 lineto
+50 -50 lineto
+closepath

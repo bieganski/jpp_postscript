@@ -1,0 +1,4 @@
+0 0 moveto
+100 0 translate
+90 rotate
+50 50 lineto
